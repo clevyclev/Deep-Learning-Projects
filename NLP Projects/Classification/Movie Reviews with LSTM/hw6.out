@@ -1,0 +1,333 @@
+Epoch 0 train loss: 1.5846404993578735
+Epoch 0 dev loss: 1.5857564210891724
+New best loss; saving current model
+Epoch 1 train loss: 1.5701018201277943
+Epoch 1 dev loss: 1.568380355834961
+New best loss; saving current model
+Epoch 2 train loss: 1.550676787390691
+Epoch 2 dev loss: 1.5757966041564941
+Epoch 3 train loss: 1.5165646906649128
+Epoch 3 dev loss: 1.586691975593567
+Epoch 4 train loss: 1.4718358744396252
+Epoch 4 dev loss: 1.585759162902832
+Epoch 5 train loss: 1.4035854076178333
+Epoch 5 dev loss: 1.6033064126968384
+Epoch 6 train loss: 1.3283742148331488
+Epoch 6 dev loss: 1.6329994201660156
+Epoch 7 train loss: 1.2502750783377372
+Epoch 7 dev loss: 1.6422908306121826
+Epoch 8 train loss: 1.1705077265978752
+Epoch 8 dev loss: 1.6708558797836304
+Epoch 9 train loss: 1.0907414044333754
+Epoch 9 dev loss: 1.6858748197555542
+Epoch 10 train loss: 1.014301158069225
+Epoch 10 dev loss: 1.6957179307937622
+Epoch 11 train loss: 0.9467802454023325
+Epoch 11 dev loss: 1.7133464813232422
+Epoch 12 train loss: 0.8784409292628256
+Epoch 12 dev loss: 1.7497074604034424
+Epoch 13 train loss: 0.8193542363491844
+Epoch 13 dev loss: 1.754621982574463
+Epoch 14 train loss: 0.7671632876110434
+Epoch 14 dev loss: 1.7659131288528442
+Epoch 15 train loss: 0.7164941324053632
+Epoch 15 dev loss: 1.7925046682357788
+
+Best model dev accuracy: 0.28701180744777477
+
+Some dev examples, with model predictions:
+
+Review:	it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination .
+Gold label:	1
+Model prediction:	1
+
+Review:	it 's sweet , harmless , dumb , occasionally funny and about as compelling as a fishing show .
+Gold label:	2
+Model prediction:	3
+
+Review:	for starters , the story is just too slim .
+Gold label:	1
+Model prediction:	1
+
+Review:	green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project .
+Gold label:	0
+Model prediction:	3
+
+Review:	adults will wish the movie were less simplistic , obvious , clumsily plotted and shallowly characterized .
+Gold label:	1
+Model prediction:	1
+
+Review:	dragonfly has no atmosphere , no tension -- nothing but costner , flailing away .
+Gold label:	0
+Model prediction:	3
+
+Review:	it 's a bit disappointing that it only manages to be decent instead of dead brilliant .
+Gold label:	1
+Model prediction:	3
+
+Review:	a quiet treasure -- a film to be savored .
+Gold label:	4
+Model prediction:	3
+
+Review:	a coarse and stupid gross-out .
+Gold label:	1
+Model prediction:	1
+
+Review:	it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation .
+Gold label:	1
+Model prediction:	1
+
+Epoch 0 train loss: 1.6492859339446164
+Epoch 0 dev loss: 1.594997525215149
+New best loss; saving current model
+Epoch 1 train loss: 1.6355674168590302
+Epoch 1 dev loss: 1.57274329662323
+New best loss; saving current model
+Epoch 2 train loss: 1.6221301207381689
+Epoch 2 dev loss: 1.5752942562103271
+Epoch 3 train loss: 1.6051945829212888
+Epoch 3 dev loss: 1.5921636819839478
+Epoch 4 train loss: 1.606806926959463
+Epoch 4 dev loss: 1.568695306777954
+New best loss; saving current model
+Epoch 5 train loss: 1.5905090083790183
+Epoch 5 dev loss: 1.5653029680252075
+New best loss; saving current model
+Epoch 6 train loss: 1.5805403181676114
+Epoch 6 dev loss: 1.5947567224502563
+Epoch 7 train loss: 1.5757834737220506
+Epoch 7 dev loss: 1.5616225004196167
+New best loss; saving current model
+Epoch 8 train loss: 1.5641227067633068
+Epoch 8 dev loss: 1.5624040365219116
+Epoch 9 train loss: 1.5397553332289506
+Epoch 9 dev loss: 1.564416766166687
+Epoch 10 train loss: 1.506829366701819
+Epoch 10 dev loss: 1.561272144317627
+New best loss; saving current model
+Epoch 11 train loss: 1.4763261392321927
+Epoch 11 dev loss: 1.5610382556915283
+New best loss; saving current model
+Epoch 12 train loss: 1.4407918372850739
+Epoch 12 dev loss: 1.5744379758834839
+Epoch 13 train loss: 1.3868514585137814
+Epoch 13 dev loss: 1.5687155723571777
+Epoch 14 train loss: 1.349431997381346
+Epoch 14 dev loss: 1.5805885791778564
+Epoch 15 train loss: 1.2985400461525507
+Epoch 15 dev loss: 1.577380895614624
+
+Best model dev accuracy: 0.29064486830154407
+
+Some dev examples, with model predictions:
+
+Review:	it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination .
+Gold label:	1
+Model prediction:	1
+
+Review:	it 's sweet , harmless , dumb , occasionally funny and about as compelling as a fishing show .
+Gold label:	2
+Model prediction:	3
+
+Review:	for starters , the story is just too slim .
+Gold label:	1
+Model prediction:	1
+
+Review:	green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project .
+Gold label:	0
+Model prediction:	1
+
+Review:	adults will wish the movie were less simplistic , obvious , clumsily plotted and shallowly characterized .
+Gold label:	1
+Model prediction:	1
+
+Review:	dragonfly has no atmosphere , no tension -- nothing but costner , flailing away .
+Gold label:	0
+Model prediction:	1
+
+Review:	it 's a bit disappointing that it only manages to be decent instead of dead brilliant .
+Gold label:	1
+Model prediction:	3
+
+Review:	a quiet treasure -- a film to be savored .
+Gold label:	4
+Model prediction:	1
+
+Review:	a coarse and stupid gross-out .
+Gold label:	1
+Model prediction:	1
+
+Review:	it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation .
+Gold label:	1
+Model prediction:	3
+
+Epoch 0 train loss: 1.5797253168477547
+Epoch 0 dev loss: 1.572569489479065
+New best loss; saving current model
+Epoch 1 train loss: 1.561236260982042
+Epoch 1 dev loss: 1.5415295362472534
+New best loss; saving current model
+Epoch 2 train loss: 1.5100915632890852
+Epoch 2 dev loss: 1.5234769582748413
+New best loss; saving current model
+Epoch 3 train loss: 1.423003215021855
+Epoch 3 dev loss: 1.4789164066314697
+New best loss; saving current model
+Epoch 4 train loss: 1.3291075484136516
+Epoch 4 dev loss: 1.4681973457336426
+New best loss; saving current model
+Epoch 5 train loss: 1.2263351832882743
+Epoch 5 dev loss: 1.4644882678985596
+New best loss; saving current model
+Epoch 6 train loss: 1.134608895814374
+Epoch 6 dev loss: 1.4732227325439453
+Epoch 7 train loss: 1.0514736789442627
+Epoch 7 dev loss: 1.4760271310806274
+Epoch 8 train loss: 0.9794882944460666
+Epoch 8 dev loss: 1.4850654602050781
+Epoch 9 train loss: 0.906526426251015
+Epoch 9 dev loss: 1.5206021070480347
+Epoch 10 train loss: 0.8335803919070669
+Epoch 10 dev loss: 1.5365817546844482
+Epoch 11 train loss: 0.7735475458009413
+Epoch 11 dev loss: 1.5709381103515625
+Epoch 12 train loss: 0.7159008206276412
+Epoch 12 dev loss: 1.5955921411514282
+Epoch 13 train loss: 0.6695947236336126
+Epoch 13 dev loss: 1.5982049703598022
+Epoch 14 train loss: 0.626781799150317
+Epoch 14 dev loss: 1.6321332454681396
+Epoch 15 train loss: 0.5844769261303019
+Epoch 15 dev loss: 1.6399885416030884
+
+Best model dev accuracy: 0.36966394187102636
+
+Some dev examples, with model predictions:
+
+Review:	it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination .
+Gold label:	1
+Model prediction:	1
+
+Review:	it 's sweet , harmless , dumb , occasionally funny and about as compelling as a fishing show .
+Gold label:	2
+Model prediction:	3
+
+Review:	for starters , the story is just too slim .
+Gold label:	1
+Model prediction:	1
+
+Review:	green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project .
+Gold label:	0
+Model prediction:	1
+
+Review:	adults will wish the movie were less simplistic , obvious , clumsily plotted and shallowly characterized .
+Gold label:	1
+Model prediction:	1
+
+Review:	dragonfly has no atmosphere , no tension -- nothing but costner , flailing away .
+Gold label:	0
+Model prediction:	3
+
+Review:	it 's a bit disappointing that it only manages to be decent instead of dead brilliant .
+Gold label:	1
+Model prediction:	3
+
+Review:	a quiet treasure -- a film to be savored .
+Gold label:	4
+Model prediction:	3
+
+Review:	a coarse and stupid gross-out .
+Gold label:	1
+Model prediction:	1
+
+Review:	it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation .
+Gold label:	1
+Model prediction:	1
+
+Epoch 0 train loss: 1.590560831827171
+Epoch 0 dev loss: 1.5743649005889893
+New best loss; saving current model
+Epoch 1 train loss: 1.5842747223957647
+Epoch 1 dev loss: 1.5723700523376465
+New best loss; saving current model
+Epoch 2 train loss: 1.5806524409783467
+Epoch 2 dev loss: 1.570939540863037
+New best loss; saving current model
+Epoch 3 train loss: 1.5751382308952817
+Epoch 3 dev loss: 1.5729929208755493
+Epoch 4 train loss: 1.5720844344699874
+Epoch 4 dev loss: 1.5580642223358154
+New best loss; saving current model
+Epoch 5 train loss: 1.5589920246645752
+Epoch 5 dev loss: 1.5355041027069092
+New best loss; saving current model
+Epoch 6 train loss: 1.5325259885537936
+Epoch 6 dev loss: 1.5403090715408325
+Epoch 7 train loss: 1.5083570520529586
+Epoch 7 dev loss: 1.4709384441375732
+New best loss; saving current model
+Epoch 8 train loss: 1.4452516371837716
+Epoch 8 dev loss: 1.422467827796936
+New best loss; saving current model
+Epoch 9 train loss: 1.3852959969516998
+Epoch 9 dev loss: 1.3963038921356201
+New best loss; saving current model
+Epoch 10 train loss: 1.3222483083996432
+Epoch 10 dev loss: 1.367803692817688
+New best loss; saving current model
+Epoch 11 train loss: 1.2616383719087094
+Epoch 11 dev loss: 1.3655463457107544
+New best loss; saving current model
+Epoch 12 train loss: 1.2044950337445692
+Epoch 12 dev loss: 1.3763887882232666
+Epoch 13 train loss: 1.1432664800672496
+Epoch 13 dev loss: 1.3785338401794434
+Epoch 14 train loss: 1.0933596940522783
+Epoch 14 dev loss: 1.4120264053344727
+Epoch 15 train loss: 1.0456454756108116
+Epoch 15 dev loss: 1.4112892150878906
+
+Best model dev accuracy: 0.40236148955495005
+
+Some dev examples, with model predictions:
+
+Review:	it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination .
+Gold label:	1
+Model prediction:	1
+
+Review:	it 's sweet , harmless , dumb , occasionally funny and about as compelling as a fishing show .
+Gold label:	2
+Model prediction:	3
+
+Review:	for starters , the story is just too slim .
+Gold label:	1
+Model prediction:	1
+
+Review:	green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project .
+Gold label:	0
+Model prediction:	1
+
+Review:	adults will wish the movie were less simplistic , obvious , clumsily plotted and shallowly characterized .
+Gold label:	1
+Model prediction:	1
+
+Review:	dragonfly has no atmosphere , no tension -- nothing but costner , flailing away .
+Gold label:	0
+Model prediction:	1
+
+Review:	it 's a bit disappointing that it only manages to be decent instead of dead brilliant .
+Gold label:	1
+Model prediction:	2
+
+Review:	a quiet treasure -- a film to be savored .
+Gold label:	4
+Model prediction:	3
+
+Review:	a coarse and stupid gross-out .
+Gold label:	1
+Model prediction:	1
+
+Review:	it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation .
+Gold label:	1
+Model prediction:	1
+

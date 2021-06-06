@@ -1,0 +1,81 @@
+Epoch 0 train loss: 1.5982099825076843
+Epoch 0 dev loss: 1.5564550161361694
+New best loss; saving current model
+Epoch 1 train loss: 1.5491521947839286
+Epoch 1 dev loss: 1.5282591581344604
+New best loss; saving current model
+Epoch 2 train loss: 1.520273421587569
+Epoch 2 dev loss: 1.5063331127166748
+New best loss; saving current model
+Epoch 3 train loss: 1.487142337841934
+Epoch 3 dev loss: 1.490811824798584
+New best loss; saving current model
+Epoch 4 train loss: 1.4530211856749173
+Epoch 4 dev loss: 1.4591103792190552
+New best loss; saving current model
+Epoch 5 train loss: 1.4095842615048984
+Epoch 5 dev loss: 1.430306315422058
+New best loss; saving current model
+Epoch 6 train loss: 1.3612493606988856
+Epoch 6 dev loss: 1.427361249923706
+New best loss; saving current model
+Epoch 7 train loss: 1.3181013670306974
+Epoch 7 dev loss: 1.3784223794937134
+New best loss; saving current model
+Epoch 8 train loss: 1.2679616806658913
+Epoch 8 dev loss: 1.3631391525268555
+New best loss; saving current model
+Epoch 9 train loss: 1.2189741328860937
+Epoch 9 dev loss: 1.3513630628585815
+New best loss; saving current model
+Epoch 10 train loss: 1.1733141711142179
+Epoch 10 dev loss: 1.3433259725570679
+New best loss; saving current model
+Epoch 11 train loss: 1.1290234894341744
+Epoch 11 dev loss: 1.3408432006835938
+New best loss; saving current model
+
+Best model dev accuracy: 0.41416892409324646
+
+Some dev examples, with model predictions:
+
+Review:	it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination .
+Gold label:	1
+Model prediction:	0
+
+Review:	it 's sweet , harmless , dumb , occasionally funny and about as compelling as a fishing show .
+Gold label:	2
+Model prediction:	2
+
+Review:	for starters , the story is just too slim .
+Gold label:	1
+Model prediction:	1
+
+Review:	green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project .
+Gold label:	0
+Model prediction:	1
+
+Review:	adults will wish the movie were less simplistic , obvious , clumsily plotted and shallowly characterized .
+Gold label:	1
+Model prediction:	1
+
+Review:	dragonfly has no atmosphere , no tension -- nothing but costner , flailing away .
+Gold label:	0
+Model prediction:	1
+
+Review:	it 's a bit disappointing that it only manages to be decent instead of dead brilliant .
+Gold label:	1
+Model prediction:	3
+
+Review:	a quiet treasure -- a film to be savored .
+Gold label:	4
+Model prediction:	3
+
+Review:	a coarse and stupid gross-out .
+Gold label:	1
+Model prediction:	0
+
+Review:	it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation .
+Gold label:	1
+Model prediction:	0
+
